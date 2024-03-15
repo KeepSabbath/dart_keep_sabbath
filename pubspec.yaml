@@ -8,9 +8,6 @@ environment:
   flutter: ">=3.3.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
-
   sunrise_sunset_calc: ^3.0.0
 
 dev_dependencies:
