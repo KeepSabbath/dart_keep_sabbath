@@ -1,6 +1,6 @@
 name: dart_keep_sabbath
 description: A Dart package to help you observe the Biblical Sabbath and Holy days 
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/KeepSabbath/dart_keep_sabbath
 
 environment:
