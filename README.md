@@ -9,7 +9,7 @@ Based on the understanding that the Sabbath and Biblical Holy days are from sund
 Add ``dart_keep_sabbath`` to your pubspec.yaml:
 ```yaml
 dependencies:
-  dart_keep_sabbath: ^0.0.1
+  dart_keep_sabbath: ^0.0.2
 ```
 
 ## Usage
