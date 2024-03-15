@@ -1,0 +1,21 @@
+name: dart_keep_sabbath
+description: A Dart package to help you observe the Biblical Sabbath and Holy days 
+version: 0.0.1
+homepage: https://github.com/KeepSabbath/dart_keep_sabbath
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  sunrise_sunset_calc: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
