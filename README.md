@@ -38,6 +38,7 @@ List<DateTime> holyDays = [
   DateTime(2024, 9, 14), // Day of atonements
   DateTime(2024, 9, 19), // Feast of tabernacles
   DateTime(2024, 9, 26), // Last great day
+// You can specify other days. These are just for example.
 ];
 
 bool isDuringSabbathOrHolyDay = KeepSabbath.isSabbathOrHolyDay(holyDays, lat, lng);
